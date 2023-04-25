@@ -1,0 +1,14 @@
+.admin1{
+   
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    /* background-color: skyblue; */
+    position: relative;
+    top: 200px;
+}
+.name img{
+    position: relative;
+    bottom: 600px;
+    left: 500px;
+}

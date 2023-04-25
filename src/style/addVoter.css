@@ -1,0 +1,16 @@
+.addvoter12{
+    margin-top: -25px;
+     background-image: url('C:\Users\Lenono-PC\Desktop\React\reactproject\HM\public\images\d1.webp');
+     height: 100vh;
+     background-position: center;
+     background-size: cover;
+}
+.addvoter21{
+    position: relative;
+    right: 30px;
+    height: 690px;
+    background-position: center;
+    background-size: cover;
+    padding:10px 110px;
+    background-color:white;
+}

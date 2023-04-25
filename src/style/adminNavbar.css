@@ -1,0 +1,43 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navbar li{
+
+    display: inline-block;
+    margin-left: 20px;
+  
+    margin-right: 20px;
+
+}
+#k1{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#k2{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#k4{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#k3{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#k5{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+#k6{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}

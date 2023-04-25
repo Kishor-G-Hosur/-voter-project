@@ -1,0 +1,58 @@
+{
+  "voter": [
+    {
+      "name": "sad",
+      "age": "2023-04-07",
+      "email": "2afdsa@asda",
+      "contact": "2213",
+      "Usn": "2323",
+      "class1": "fdsdf",
+      "Congress": "yes",
+      "id": 2
+    },
+    {
+      "name": "harsha",
+      "age": "2023-04-14",
+      "email": "harsha@ass",
+      "contact": "23123",
+      "Usn": "23323",
+      "class1": "vccv",
+      "bjp": "",
+      "Jds": "yes",
+      "id": 3
+    },
+    {
+      "name": "sadasd",
+      "age": "2023-04-14",
+      "email": "sadasd@334",
+      "contact": "z23213",
+      "Usn": "21313",
+      "class1": "123123",
+      "other": "yes",
+      "id": 4
+    },
+    {
+      "name": "asdasd",
+      "age": "2023-04-13",
+      "email": "2313123@asdad",
+      "contact": "1`2",
+      "Usn": "21",
+      "class1": "sdaasd",
+      "Jds": "yes",
+      "id": 5
+    },
+    {
+      "name": "KISHORA G Hosur",
+      "age": "2023-04-07",
+      "email": "ghkishora45@gmail.com",
+      "contact": "44",
+      "Usn": "244",
+      "class1": "ds",
+      "bjp": "yes",
+      "Jds": "",
+      "Congress": "",
+      "other": "",
+      "id": 6
+    }
+  ]
+}

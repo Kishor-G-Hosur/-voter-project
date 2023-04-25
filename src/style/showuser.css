@@ -1,0 +1,33 @@
+.showvoter1{  
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+    height: 450px;
+    width: 400px;
+    /* background-color: rgb(227, 242, 255);   */
+    background-image:linear-gradient(yellow,red) ;
+    display: inline-block;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+.userlist1{
+    margin-top: 20px;
+    margin-left: 40px;
+    padding: 20px;
+}
+#btn99{
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 100px;
+    border: 2px solid rgb(15, 15, 14);
+    background-color: rgb(13, 174, 232);
+    color: rgb(35, 8, 8);
+}
+#btn99:hover{
+    background-color: black;
+    color: aliceblue;
+}
+#pl1{
+    text-align: center;
+    text-decoration: underline gray;
+}

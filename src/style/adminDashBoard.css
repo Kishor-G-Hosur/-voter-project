@@ -1,0 +1,22 @@
+.adminDashBoard{
+   
+    margin: 0px;
+    
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+#S2{
+    margin-top: 20px;
+    position: absolute;
+    left: 250px;
+}
+#S1{
+    text-decoration: underline rgb(2, 208, 245);
+    font-size: 30px;
+    margin-left: 250px;
+    margin-top: 30px;
+    font-weight: bolder;
+    color: rgb(1, 33, 1);
+    font-family: system-ui, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

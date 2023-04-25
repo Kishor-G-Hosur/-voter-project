@@ -1,0 +1,13 @@
+    .voter1{
+        /* margin-top: -23px; */
+        height: 100vh;
+        background-image: linear-gradient(to right,red,yellow);
+        background-color: aqua;
+        background-position: center;
+        background-size: cover;
+ 
+    }
+    
+#btn321{
+    margin-left: 30px;
+}
